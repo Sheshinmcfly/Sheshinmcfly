@@ -45,7 +45,7 @@ Escríbeme a **s.palacios.hidalgo@gmail.com** o por [LinkedIn](https://www.linke
 | **[AtlasMundi](https://github.com/sheshinmcfly/buscadorPaises)** | Atlas interactivo de 250 países: comparador, rankings, mapa mundial, historia del Banco Mundial y quiz de banderas. Accesibilidad y SEO 100 en Lighthouse. | Angular 22 · Signals · Leaflet · Chart.js · Azure | [Abrir aplicación](https://victorious-pond-0fe11980f.6.azurestaticapps.net) |
 | **[buscadorMarvel](https://github.com/sheshinmcfly/buscadorMarvel)** | Buscador de más de 400 héroes y villanos de Marvel y DC: comparador, rankings, explorador, favoritos y links compartibles. Modernizado de Angular 17 a 22 sin zone.js. | Angular 22 · Signals · RxJS · Vitest · Azure | [Abrir aplicación](https://lemon-ground-03c084a0f.3.azurestaticapps.net) |
 | **[inventario-confeccion](https://github.com/sheshinmcfly/inventario-confeccion)** + **[API](https://github.com/sheshinmcfly/inventario-confeccion-api)** | Sistema de inventario de escritorio para una empresa de confección. | Angular 18 · Electron · NestJS · Prisma · PostgreSQL · Docker | — |
-| **[piedraPapelTijeras](https://github.com/sheshinmcfly/piedraPapelTijeras)** | Juego web con modo retro de 16 bits y versión Android. | Angular · Capacitor | — |
+| **[piedraPapelTijeras](https://github.com/sheshinmcfly/piedraPapelTijeras)** | Juego contra «La Máquina» con tema retro de 16 bits, récords, atajos de teclado y app Android descargable. Modernizado de Angular 17 a 22 sin zone.js. | Angular 22 · Signals · Capacitor · Vitest · Azure | [Abrir aplicación](https://purple-plant-0c461dd0f.8.azurestaticapps.net) · [APK](https://github.com/Sheshinmcfly/piedraPapelTijeras/releases/latest) |
 
 ## Stack
 
